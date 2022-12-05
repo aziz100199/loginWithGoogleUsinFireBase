@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "817860017888",
+    "project_id": "sigin-b46ad",
+    "storage_bucket": "sigin-b46ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817860017888:android:a4e6398445d7e423cfda85",
+        "android_client_info": {
+          "package_name": "com.example.siginwithgoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817860017888-scnuce2gg0b12sb79l533ivop8gagnmh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.siginwithgoogle",
+            "certificate_hash": "e9ba1ebae704149ca6a38631dcb362ea20cc355c"
+          }
+        },
+        {
+          "client_id": "817860017888-o74i6jaq74d5dvkqsjrn31fv2o7kb7v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Zxz6tdM_oPPZNOPj5Yyx0H2t54EMC7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817860017888-o74i6jaq74d5dvkqsjrn31fv2o7kb7v2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

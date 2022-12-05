@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SigInWithGoogle</string>
+    <string name="after_login">After Login</string>
+    <string name="client_id">817860017888-o74i6jaq74d5dvkqsjrn31fv2o7kb7v2.apps.googleusercontent.com</string>
+    <string name="client_id1">versatile-brace-370713</string>
+    <string name="logout">Logout</string>
+</resources>
